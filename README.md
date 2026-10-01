@@ -1,4 +1,4 @@
-# Hi, my name is Dmytro!
+# Hi, my name is Dmitry!
 
 --- 
 
